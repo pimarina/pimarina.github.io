@@ -1,4 +1,4 @@
-## Marina's page
+## How to edit your web page on GitHub?
 
 You can use the [editor on GitHub](https://github.com/pimarina/pimarina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
