@@ -1,3 +1,6 @@
-* [motivation letter](/motivation)
-* [CV](/cv)
-* [research proposal](/proposal)
+---
+layout: page
+title: research proposal
+permalink: /proposal
+---
+this is my .. proposal

@@ -1,3 +1,1 @@
-* [motivation letter](/motivation)
-* [CV](/cv)
-* [research proposal](/proposal)
+this is my CV
